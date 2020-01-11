@@ -1,0 +1,25 @@
+Create a class Bicycle with the following data:
+
+variables: gear, speed
+member functions: display(), setGear(), applyBrake(), speedUp()
+
+1. Use constructor to initialize variables.
+2. display() to show all data.
+3. setGear() to change gear value.
+4. applyBrake() to decrement the current speed.
+5. speedUp() to increment the current speed.
+
+Then,
+
+Create a class MountainBike class that is a subclass/derived class of Bicycle.
+
+variables: seatHeight
+member functions: setHeight()
+
+1. Use constructor to initialize variables also extend from super class.
+2. setHeight() to give a value to seatHeight variable.
+3. Extend display() method by adding seatHeight data to it.
+4. Create object of Bicycle class and call the relevant methods.
+5. Create object of MountainBike class and call the relevant methods.
+
+

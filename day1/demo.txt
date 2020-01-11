@@ -1,0 +1,7 @@
+Program 1:
+Create a class Product having data members productID, name & price 
+and member function display().
+Initialize the object using all 3 constructors.
+
+
+

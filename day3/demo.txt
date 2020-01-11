@@ -1,0 +1,9 @@
+Create a program that will take a number from user.
+
+Raise the number to power of 2.
+
+Then raise that answer to the power of 2
+
+There will be a sleep time of 1 second between each
+
+transaction.
